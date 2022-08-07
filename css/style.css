@@ -18,7 +18,7 @@ ul li a:hover{
 nav{
     display: flex;
     align-items: center;
-    padding: 20px 8%;
+    padding: 20px;
 }
 nav  .menu-img{
     width: 25px;
